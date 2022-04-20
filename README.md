@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShubhamBorkar09
+- 👋 Hi, I’m @shubhamborkar09
 - 👀 I’m interested in Cloud Computing.
 - 🌱 I’m currently learning Linux & DevOps.
 - 💞️ I’m looking to collaborate on DevOps Projects.
