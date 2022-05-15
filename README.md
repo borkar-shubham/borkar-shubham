@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamborkar09
 - 👀 I’m interested in Cloud Computing.
-- 🌱 I’m currently working on Linux & DevOps.
+- 🌱 I’m currently working on Linux, AWS & DevOps Tools.
 - 💞️ I’m looking to collaborate on DevOps Projects.
 - 📫 Reach me at shubham_borkar@outlook.com
 
