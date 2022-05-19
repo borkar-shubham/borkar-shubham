@@ -1,7 +1,7 @@
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m @shubhamborkar09
 - 👀 I’m interested in Cloud Computing.
 - 🌱 I’m currently working on Linux, AWS & DevOps Tools.
-- 💞️ I’m looking to collaborate on DevOps Projects.
+- 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 Reach me at shubham_borkar@outlook.com
 
 <!---
