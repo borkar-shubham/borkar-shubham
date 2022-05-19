@@ -1,4 +1,4 @@
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m @shubhamborkar09
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> Hi, I’m @shubhamborkar09
 - 👀 I’m interested in Cloud Computing.
 - 🌱 I’m currently working on Linux, AWS & DevOps Tools.
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45px"> I’m looking to collaborate on DevOps Projects
