@@ -1,4 +1,4 @@
-- <img src="https://tenor.com/en-GB/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042583" width="29"> Hi, I’m Shubham Borkar
+- <img src="https://github.com/borkar-shubham/Icons/blob/main/dm4uz3-foekoe.gif" width="29"> Hi, I’m Shubham Borkar
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24"> I’m interested in DevOps & Cloud Computing
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34"> Currently working on DevOps Tools, AWS & Linux
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="47"> Looking to collaborate on DevOps Projects
