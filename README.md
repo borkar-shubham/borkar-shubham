@@ -1,7 +1,7 @@
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26"> Hi, I’m Shubham Borkar
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24"> I’m interested in DevOps & Cloud Computing
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34"> Currently working on DevOps Tools, AWS & Linux
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="47"> Looking to collaborate on DevOps Projects
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24"> I’m Interested In Cloud & DevOps Technology.
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34"> Currently Working In Platform Engineering.
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="47"> Looking To Collaborate On DevOps Projects.
 - 📫  Reach me at shubham_borkar@outlook.com
 
 
